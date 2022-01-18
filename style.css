@@ -59,7 +59,7 @@ marquee{
     color: black;
     font-weight: 600;
 }
-.d ul li{
+.d1 ul li{
     display: inline-block;
    padding-right: 20px;
    padding-top: 17px;
@@ -67,6 +67,6 @@ marquee{
     font-size: 13px;
     width: 250px;
 }
-.d ul li a{
+.d1 ul li a{
     color: black;
 }
