@@ -1,0 +1,72 @@
+.a{
+   height: 80px;
+}
+.osbi_logo{
+    margin-right: 0px;
+    float: right;
+}
+.nav-link{
+    font-size: 12px;
+    font-family: arial;
+    background-color:transparent;
+    border-right-color: rgb(22, 160, 134);
+    border-right-width: 1px;
+    border-right-style: solid;
+}
+.b{
+    background-color: #0D376B;
+}
+.nav-link{
+    color: white!important;
+}
+.nav-item{
+    color: transparent;
+}
+.bg-light{
+    background-color: transparent !important;
+}
+.c{
+margin-top: 15px;
+}
+.banking{
+    text-align: center;
+}
+.btn{
+    margin-top: 40px;
+    padding: 0 20px;
+    background-color: #0D376B;
+    color: white;
+    height: 25px;
+}
+.personal1 a{
+    padding-left: 15px;
+    text-decoration: none;
+    color: black;
+    font-size: 13px
+}
+.personal1{
+    margin-top: 40px;
+}
+p{
+    font-size: 12px;
+}
+.p{
+    margin-top: 20px;
+}
+marquee{
+    background-color: #FFBC82;
+    font-size: 13px;
+    color: black;
+    font-weight: 600;
+}
+.d ul li{
+    display: inline-block;
+   padding-right: 20px;
+   padding-top: 17px;
+    padding-inline-start: 0px;
+    font-size: 13px;
+    width: 250px;
+}
+.d ul li a{
+    color: black;
+}
