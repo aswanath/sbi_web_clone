@@ -1,7 +1,5 @@
-# sbi
-This is my first responsive website made for educational purpose only.
-You can find the hosted website on the link down below.
+# sbi_web_clone
+This is my first responsive website made with HTML, CSS and Bootstrap.😃
 
-https://aswanath.github.io/sbi/
+## [SBI](https://aswanath.github.io/sbi_web_clone/)
 
-Thanks.
